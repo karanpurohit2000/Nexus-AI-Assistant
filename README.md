@@ -6,3 +6,4 @@ Nexus AI is a Python-based voice assistant that performs speech recognition, aut
 - **Voice Commands**: Uses speech-to-text and text-to-speech for interaction.
 - **Automation**: Executes system tasks and web searches.
 - **AI Chatbot**: Provides intelligent responses using APIs.
+
